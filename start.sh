@@ -2,7 +2,8 @@
 
 # configs
 AUUID=5c65e220-2a68-11ec-8d3d-0242ac130005
-CADDYIndexPage=https://www.amazon.cnCONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
+CADDYIndexPage=https://www.amazon.cn
+CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
 StoreFiles=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/StoreFiles
